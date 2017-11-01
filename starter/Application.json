@@ -8,7 +8,7 @@
 		"name": "CSAP AWS Starter Template",
 		"ajpSecret": "csapDemoAjp",
 		
-		"scm": "https://github.com/peterdnight/csap-aws-definition",
+		"scm": "https://github.com/your-definition",
 		"scmType": "git",
 		"scmBranch": "master",
 		"repoUrl": "http://repo.spring.io/libs-release",
