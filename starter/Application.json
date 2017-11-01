@@ -5,7 +5,7 @@
 		"emailNotifications": "support@notConfigured.com"
 	},
 	"capability": {
-		"name": "CSAP AWS Demo",
+		"name": "CSAP AWS Starter Template",
 		"ajpSecret": "csapDemoAjp",
 		
 		"scm": "https://github.com/peterdnight/csap-aws-definition",
